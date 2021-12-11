@@ -1,6 +1,6 @@
 {
   "name": "watchword",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NPM Package which makes strong password of given length",
   "main": "index.js",
   "scripts": {
