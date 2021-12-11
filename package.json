@@ -1,0 +1,22 @@
+{
+  "name": "watchword",
+  "version": "1.0.0",
+  "description": "A NPM Package which makes strong password of given length",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowbit-coderboi/watchword.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "snowbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowbit-coderboi/watchword/issues"
+  },
+  "homepage": "https://github.com/snowbit-coderboi/watchword#readme"
+}
