@@ -8,5 +8,3 @@ const Password = (n) => {
 module.exports = {
     Password
 }
-
-console.log(Password(300));
